@@ -68,34 +68,36 @@ for row in C:
 
 print("\nProgram is executed successfully....")
 
+"""
+Please enter any row no. for A matrix: 2  
+Please enter any column no. for A matrix: 2
 
-# Please enter any row no. for A matrix: 2  
-# Please enter any column no. for A matrix: 2
+Please enter any row no. for B matrix: 2
+Please enter any column no. for B matrix: 2
 
-# Please enter any row no. for B matrix: 2
-# Please enter any column no. for B matrix: 2
+Please enter 4 elements for A matrix----
+A[1][1]: 1
+A[1][2]: 2
+A[2][1]: 3
+A[2][2]: 4
 
-# Please enter 4 elements for A matrix----
-# A[1][1]: 1
-# A[1][2]: 2
-# A[2][1]: 3
-# A[2][2]: 4
+Please enter 4 elements for B matrix---
+B[1][1]: 5
+B[1][2]: 6
+B[2][1]: 7
+B[2][2]: 8
 
-# Please enter 4 elements for B matrix---
-# B[1][1]: 5
-# B[1][2]: 6
-# B[2][1]: 7
-# B[2][2]: 8
+A =      1 2 
 
-# A =      1 2 
+         3 4 
 
-#          3 4 
+B =      5 6
+         7 8
 
-# B =      5 6
-#          7 8
+A x B =
+         19 22
+         43 50
 
-# A x B =
-#          19 22
-#          43 50
+Program is executed successfully....
 
-# Program is executed successfully....
+"""
