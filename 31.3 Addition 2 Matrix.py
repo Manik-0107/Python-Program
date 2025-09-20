@@ -51,29 +51,32 @@ for row in C:
 
 print("\nThe Program is Successfully executed....\n\n")
 
-# Please enter no. of rows for matrix: 2
-# Please enter no. of column for matrix: 2
+"""
+Please enter no. of rows for matrix: 2
+Please enter no. of column for matrix: 2
 
-# Please enter  4 elements for A matrix..
-# A[1][1]= 1
-# A[1][2]= 2
-# A[2][1]= 3
-# A[2][2]= 4
+Please enter  4 elements for A matrix..
+A[1][1]= 1
+A[1][2]= 2
+A[2][1]= 3
+A[2][2]= 4
 
-# Please enter 4 elements for B matrix--
-# B[1][1]= 5
-# B[1][2]= 6
-# B[2][1]= 7
-# B[2][2]= 8
+Please enter 4 elements for B matrix--
+B[1][1]= 5
+B[1][2]= 6
+B[2][1]= 7
+B[2][2]= 8
 
-# A =     1 2 
-#         3 4 
+A =     1 2 
+        3 4 
 
-# B =     5 6 
-#         7 8 
+B =     5 6 
+        7 8 
 
-# A + B = 
-#         6 8 
-#         10 12 
+A + B = 
+        6 8 
+        10 12 
 
-# The Program is Successfully executed....
+The Program is Successfully executed....
+
+"""
