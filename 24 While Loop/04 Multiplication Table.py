@@ -1,0 +1,31 @@
+# Multiplication Table
+
+n = int(input("Please enter any number: "))
+
+i = 1
+while i <= 10:
+    print(f"{i} x {n} = {i * n}")
+
+    i += 1
+
+print("\nThe Program is successfully executed")
+
+
+
+
+"""
+Please enter any number: 7
+1 x 7 = 7
+2 x 7 = 14
+3 x 7 = 21
+4 x 7 = 28
+5 x 7 = 35
+6 x 7 = 42
+7 x 7 = 49
+8 x 7 = 56
+9 x 7 = 63
+10 x 7 = 70
+
+The program is successfully executed
+
+"""
