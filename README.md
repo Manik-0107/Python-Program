@@ -212,10 +212,13 @@ GitHub
 https://github.com/Manik-0107
 
 YouTube  
-(Add your YouTube channel link)
+https://www.youtube.com/@manikmondal9559
 
 LinkedIn  
-(Add your LinkedIn profile)
+https://www.linkedin.com/in/manik-mondal-75a61a296/
+
+Twitter  
+https://x.com/manik1720
 
 ---
 
